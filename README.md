@@ -19,7 +19,14 @@ What is its value?</b>
 <br>
 
 ~~~
-When we are looking at the calculation for the Mean of sales amounts, this is an inaccurate value to use since the distribution of the sales amounts are right skewed.  Looking through the exploratory Jupyter Notebook, we can see that the largest buyer of shoes spent over $11mm over the 30 day window.  This drastically affected the Average Order Value.  The Median Order Value (MOV) in this instance is $284 which seems to be a more accurate value to describe what types of purchases are generally being made for shoes in this dataset.
+When we are looking at the calculation for the Mean of sales amounts, 
+this is an inaccurate value to use since the distribution of the sales 
+amounts are right skewed.  Looking through the exploratory Jupyter Notebook, 
+we can see that the largest buyer of shoes spent over $11mm over the 30 
+day window.  This drastically affected the Average Order Value.  The Median 
+Order Value (MOV) in this instance is $284 which seems to be a more accurate 
+value to describe what types of purchases are generally being made for shoes 
+in this dataset.
 ~~~
 
 <br>
